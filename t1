@@ -1,6 +1,6 @@
 im edit in from - master branch 
 hai this 
-var = 10
+var a = 10
 
 <<<<<<< HEAD
 =======
@@ -19,3 +19,10 @@ im edit on my kommalu branch time - 12-15
 >>>>>>> master
 -------------------------------------------------------------------------------
 im add fronm komamlu branch time - 12-19
+
+var b = 20 
+
+x = 12 
+y = 2 
+print("x, y"   "the c = x + y "  "c" )
+  
