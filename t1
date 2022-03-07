@@ -2,15 +2,20 @@ im edit in from - master branch
 hai this 
 var = 10
 
-
-
+<<<<<<< HEAD
+=======
 im edit in kommalu branch stage , time - 10.28 am 
 
+<<<<<<< HEAD
+=======
+>>>>>>> 
+im add -from MASTERbranch time -12-12 pm 
 
+>>>>>>> master
 
-
-
-
-
-
+<<<<<<< HEAD
 im edit on my kommalu branch time - 12-15 
+=======
+>>>>>>> master
+-------------------------------------------------------------------------------
+im add fronm komamlu branch time - 12-19
